@@ -64,5 +64,5 @@ gcc grafo_busca.c -o grafo_busca
 
 ## 📂 Estrutura do Repositório
 
-- `grafo_busca.c` — Código-fonte completo contendo estruturas de dados (`Fila`, `ResultadoBusca`), algoritmos `DFS` e `BFS`, relatórios detalhados e menu interativo.
-- `README.md` — Documentação do projeto.
+- `grafo_busca.c` - Código-fonte completo contendo estruturas de dados (`Fila`, `ResultadoBusca`), algoritmos `DFS` e `BFS`, relatórios detalhados e menu interativo.
+- `README.md` - Documentação do projeto.
