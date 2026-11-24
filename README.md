@@ -1,4 +1,4 @@
-# Sistema de Busca em Grafos — Pontos de Ônibus (Cornélio Procópio - PR)
+# Sistema de Busca em Grafos: Pontos de Ônibus (Cornélio Procópio - PR)
 
 Implementação em linguagem **C** de algoritmos de busca em grafos (**DFS** e **BFS**) aplicados a uma rede de pontos de ônibus de **Cornélio Procópio - PR**.
 
