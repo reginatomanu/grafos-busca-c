@@ -1,4 +1,4 @@
-// Aluna: Manuella Vieira Reginato                RA: a276720
+// Aluna: Manuella Vieira Reginato                RA: a2767120
 
 #include <stdio.h>
 #include <stdlib.h>
